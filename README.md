@@ -158,6 +158,32 @@ I break things. Then I make them better.
 
 ---
 
+### 💻 My LeetCode Progress
+
+<div align="center">
+  <a href="https://leetcode.com/VishuMittal004/](https://leetcode.com/u/Vipanshu_Mittal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</div>
+
+<div align="center">
+
+| Category | Count | 
+|:--------:|:-----:|
+| **Total Problems Solved** | <img src="https://img.shields.io/badge/11-00D4BD?style=flat-square" alt="11"/> / 2500 |
+| **Easy Problems** | <img src="https://img.shields.io/badge/5-00D4BD?style=flat-square" alt="5"/> / 593 |
+| **Medium Problems** | <img src="https://img.shields.io/badge/4-00D4BD?style=flat-square" alt="4"/> / 1328 |
+| **Hard Problems** | <img src="https://img.shields.io/badge/2-00D4BD?style=flat-square" alt="2"/> / 579 |
+
+</div>
+
+<div align="center">
+  <h4>Current Completion Rate: 0.44%</h4>
+  <code>[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]</code>
+</div>
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
