@@ -178,8 +178,8 @@ I break things. Then I make them better.
 </div>
 
 <div align="center">
-  <h4>Current Completion Rate: 0.44%</h4>
-  <code>[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]</code>
+<!--   <h4>Current Completion Rate: 0.44%</h4> -->
+<!--   <code>[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]</code> -->
 </div>
 
 ---
