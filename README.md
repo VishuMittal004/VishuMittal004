@@ -66,38 +66,45 @@ I break things. Then I make them better.
 
 ### 🧩 Featured Projects
 
-<table align="center" border="0">
+<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td>
-      <strong><a href="https://github.com/VishuMittal004/BARTR">BARTR</a></strong><br/>
-      A bartering platform to trade without cash. Minimal, efficient, and smart.
+    <td align="center">
+      <strong><a href="https://github.com/VishuMittal004/BARTR">🔄 BARTR</a></strong><br/>
+      A bartering platform to trade without cash. Minimal, efficient, and smart.<br/>
+      <sup><em>Technologies: React, Node.js, MongoDB</em></sup>
       <br/><br/>
       <a href="https://github.com/VishuMittal004/BARTR">
-<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishuMittal004&repo=BARTR&theme=tokyonight&title_color=00D4BD&icon_color=00D4BD&text_color=FFFFFF&border_color=00D4BD" /> -->
+<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishuMittal004&repo=BARTR&theme=tokyonight&title_color=00D4BD&icon_color=00D4BD&text_color=FFFFFF&border_color=00D4BD&show_owner=true&show_icons=true" /> -->
       </a>
     </td>
   </tr>
+  <tr><td height="10"></td></tr>
   <tr>
-    <td>
-      <strong><a href="https://github.com/VishuMittal004/Aero-Route">Aero-Route</a></strong><br/>
-      AI-powered navigation for smarter air travel planning.
+    <td align="center">
+      <strong><a href="https://github.com/VishuMittal004/Aero-Route">✈️ Aero-Route</a></strong><br/>
+      AI-powered navigation for smarter air travel planning.<br/>
+      <sup><em>Technologies: Python, TensorFlow, Google Maps API</em></sup>
       <br/><br/>
       <a href="https://github.com/VishuMittal004/Aero-Route">
-<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishuMittal004&repo=Aero-Route&theme=tokyonight&title_color=00D4BD&icon_color=00D4BD&text_color=FFFFFF&border_color=00D4BD" /> -->
+<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishuMittal004&repo=Aero-Route&theme=tokyonight&title_color=00D4BD&icon_color=00D4BD&text_color=FFFFFF&border_color=00D4BD&show_owner=true&show_icons=true" /> -->
       </a>
     </td>
   </tr>
+  <tr><td height="10"></td></tr>
   <tr>
-    <td>
-      <strong><a href="https://github.com/VishuMittal004/AirClick">AirClick</a></strong><br/>
-      A smart interface for remote photography and lens control.
+    <td align="center">
+      <strong><a href="https://github.com/VishuMittal004/AirClick">📸 AirClick</a></strong><br/>
+      A smart interface for remote photography and lens control.<br/>
+      <sup><em>Technologies: JavaScript, IoT, Camera APIs</em></sup>
       <br/><br/>
       <a href="https://github.com/VishuMittal004/AirClick">
-<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishuMittal004&repo=AirClick&theme=tokyonight&title_color=00D4BD&icon_color=00D4BD&text_color=FFFFFF&border_color=00D4BD" /> -->
+<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishuMittal004&repo=AirClick&theme=tokyonight&title_color=00D4BD&icon_color=00D4BD&text_color=FFFFFF&border_color=00D4BD&show_owner=true&show_icons=true" /> -->
       </a>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
