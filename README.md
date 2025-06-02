@@ -1,5 +1,3 @@
-<!-- Futuristic GitHub Profile README for Vipanshu Mittal -->
-
 <h1 align="center">Hey there, I'm Vipanshu Mittal 👨‍💻</h1>
 <h3 align="center">Developer | Dreamer | Doer</h3>
 
@@ -36,14 +34,6 @@ I break things. Then I make them better.
 
 ---
 
-### 📊 Visual Skill Graphs
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/skills?username=VishuMittal004&theme=github_dark&background=0D1117&title_color=00D4BD&icon_color=00D4BD" />
-</p>
-
----
-
 ### 🧩 Featured Projects
 
 🌐 [**BARTR**](https://github.com/VishuMittal004/BARTR)  
@@ -74,14 +64,14 @@ I break things. Then I make them better.
 
 > *“Code not to impress, but to express.  
 > Let every line be a lyric, and every bug a chance to rewrite your song.”*  
-> — *Your AI buddy*
+> — *Vipanshu Mittal*
 
 ---
 
 ### 📬 Let's Connect
 
 <p align="left">
-  🌐 [Website](#) • 📷 [Instagram](#) • 💼 [LinkedIn](#) • 🐦 [Twitter/X](#) • 💻 [Portfolio](#) • 🧠 [Blog](#)
+📸 [Instagram](https://www.instagram.com/_vipanshu_mittal/) • 💼 [LinkedIn](https://www.linkedin.com/in/vipanshu-mittal-a65973334/) • ❌ [X](https://x.com/VishuMitta29340) • 💻 [Portfolio](https://vipanshuportfolio.netlify.app/) • 📧 [Mail](mailto:vishumittal1975@gmail.com)
 </p>
 
 ---
