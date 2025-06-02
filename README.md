@@ -161,7 +161,7 @@ I break things. Then I make them better.
 ### 💻 My LeetCode Progress
 
 <div align="center">
-  <a href="https://leetcode.com/VishuMittal004/](https://leetcode.com/u/Vipanshu_Mittal/">
+  <a href="https://leetcode.com/u/Vipanshu_Mittal/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </div>
@@ -170,10 +170,10 @@ I break things. Then I make them better.
 
 | Category | Count | 
 |:--------:|:-----:|
-| **Total Problems Solved** | <img src="https://img.shields.io/badge/11-00D4BD?style=flat-square" alt="11"/> / 2500 |
-| **Easy Problems** | <img src="https://img.shields.io/badge/5-00D4BD?style=flat-square" alt="5"/> / 593 |
-| **Medium Problems** | <img src="https://img.shields.io/badge/4-00D4BD?style=flat-square" alt="4"/> / 1328 |
-| **Hard Problems** | <img src="https://img.shields.io/badge/2-00D4BD?style=flat-square" alt="2"/> / 579 |
+| **Total Problems Solved** | <img src="https://img.shields.io/badge/11-00D4BD?style=flat-square" alt="8"/> / 3571 |
+| **Easy Problems** | <img src="https://img.shields.io/badge/5-00D4BD?style=flat-square" alt="7"/> / 880 |
+| **Medium Problems** | <img src="https://img.shields.io/badge/4-00D4BD?style=flat-square" alt="1"/> / 1852 |
+| **Hard Problems** | <img src="https://img.shields.io/badge/2-00D4BD?style=flat-square" alt="2"/> / 839 |
 
 </div>
 
