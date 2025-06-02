@@ -170,10 +170,10 @@ I break things. Then I make them better.
 
 | Category | Count | 
 |:--------:|:-----:|
-| **Total Problems Solved** | <img src="https://img.shields.io/badge/11-00D4BD?style=flat-square" alt="8"/> / 3571 |
-| **Easy Problems** | <img src="https://img.shields.io/badge/5-00D4BD?style=flat-square" alt="7"/> / 880 |
-| **Medium Problems** | <img src="https://img.shields.io/badge/4-00D4BD?style=flat-square" alt="1"/> / 1852 |
-| **Hard Problems** | <img src="https://img.shields.io/badge/2-00D4BD?style=flat-square" alt="2"/> / 839 |
+| **Total Problems Solved** | 8 / 3571 |
+| **Easy Problems** | 7 / 880 |
+| **Medium Problems** | 1 / 1852 |
+| **Hard Problems** | 0 / 839 |
 
 </div>
 
