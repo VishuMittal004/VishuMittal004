@@ -16,7 +16,7 @@
 I'm a B.Tech undergrad with a mission to blend tech and creativity in ways that feel *like the future*.  
 From AI dreams to full-stack schemes, from editing reels to debugging feels—  
 I'm the kind of dev who believes that pixels and purpose can coexist.
-
+<a href="https://vipanshuportfolio.vercel.app/">
 I sing, I design, I code.  
 I break things. Then I make them better.  
 
@@ -188,7 +188,7 @@ I break things. Then I make them better.
   <a href="mailto:vishumittal1975@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://vipanshuportfolio.netlify.app/">
+  <a href="https://vipanshuportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
