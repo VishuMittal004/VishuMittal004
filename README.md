@@ -26,6 +26,7 @@ I break things. Then I make them better.</p>
   </a>
 </p> 
 
+---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skills
 
