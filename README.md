@@ -17,6 +17,8 @@ I'm a B.Tech undergrad with a mission to blend tech and creativity in ways that 
 From AI dreams to full-stack schemes, from editing reels to debugging feels—  
 I'm the kind of dev who believes that pixels and purpose can coexist.
 <a href="https://vipanshuportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 I sing, I design, I code.  
 I break things. Then I make them better.  
 
