@@ -16,11 +16,12 @@
 <p align="center">
 I'm a B.Tech undergrad with a mission to blend tech and creativity in ways that feel *like the future*.  
 From AI dreams to full-stack schemes, from editing reels to debugging feels—  
-I'm the kind of dev who believes that pixels and purpose can coexist.
+I'm the kind of dev who believes that pixels and purpose can coexist.</p>
+<p align="centre">
+I sing, I design, I code. </p>
+<p align="centre">
+I break things. Then I make them better. </p>
 
-I sing, I design, I code.  
-I break things. Then I make them better.  
-</p>
 
 <p align="center">
   <a href="https://vipanshuportfolio.vercel.app/">
