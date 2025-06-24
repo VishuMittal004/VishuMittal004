@@ -118,7 +118,7 @@ I break things. Then I make them better.</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishuMittal004&show_icons=true&theme=tokyonight&text_color=00D4BD&icon_color=00D4BD&border_color=00D4BD&title_color=00D4BD" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishuMittal004&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=00D4BD&currStreakLabel=00D4BD&sideLabels=00D4BD&fire=00D4BD&border=00D4BD" height="170"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishuMittal004&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=00D4BD&currStreakLabel=00D4BD&sideLabels=00D4BD&fire=00D4BD&border=00D4BD" height="170"/> -->
 </p>
 
 <p align="center">
