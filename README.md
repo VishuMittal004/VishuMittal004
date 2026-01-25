@@ -2,11 +2,11 @@
 <h3 align="center">Developer | Dreamer | Doer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4BD&center=true&vCenter=true&width=435&lines=Crafting+Code+%26+Creativity.;Engineer+with+Futuristic+Vision.;Simplicity+is+my+Superpower." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4BD&center=true&vCenter=true&width=435&lines=Crafting+Code+%26+Creativity.;Engineer+with+Futuristic+Vision.;Simplicity+is+my+Superpower." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishuMittal004&color=00D4BD" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VishuMittal004&color=00D4BD" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 <p align="center">
 I'm a B.Tech undergrad with a mission to blend tech and creativity in ways that feel like the future.  
 From AI dreams to full-stack schemes, from editing reels to debugging feels —  
-I'm the kind of dev who believes pixels and purpose can coexist.  
+I’m the kind of dev who believes pixels and purpose can coexist.  
 I sing. I design. I code.  
 I break things. Then I make them better.
 </p>
@@ -29,65 +29,31 @@ I break things. Then I make them better.
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skills & Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skills & Tools
 
 <p align="center">
 
-### ⚡ Programming Languages  
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-### 🌐 Full-Stack Development (MERN)  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-### 🗄️ Databases  
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-### 🎨 UI & Styling  
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### 🧠 DSA & Problem Solving  
 <img src="https://img.shields.io/badge/Data_Structures-00D4BD?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Algorithms-00D4BD?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-### 🤖 AI & Machine Learning  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer_Vision-222222?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-### 🎨 Creativity & Design Tools  
+<img src="https://img.shields.io/badge/OpenCV-222222?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 
 </p>
-
----
-
-## 📊 Skills Progress
-
-<div align="center">
-
-| Skill Area                   | Progress         |
-|-----------------------------|------------------|
-| C / C++                     | ▓▓▓▓▓▓▓▓▓░ 90%   |
-| Python                      | ▓▓▓▓▓▓▓░░░ 75%   |
-| Data Structures & Algorithms| ▓▓▓▓▓▓▓▓▓░ 90%   |
-| Full-Stack Dev (MERN)       | ▓▓▓▓▓▓▓▓▓░ 90%   |
-| Databases (MongoDB/MySQL)   | ▓▓▓▓▓▓▓░░░ 75%   |
-| AI & ML                     | ▓▓▓▓▓▓░░░░ 60%   |
-| UI/UX + Design Tools        | ▓▓▓▓▓▓▓▓▓░ 85%   |
-
-</div>
 
 ---
 
@@ -138,7 +104,7 @@ Smart interface for remote photography and lens control.<br/>
 <img src="https://img.shields.io/badge/🤖_ULTRON_AI_Assistant-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
 </a></h3>
 Futuristic AI assistant with voice, automation & system control.<br/>
-<sup><em>Python · OpenCV · Speech AI · OpenRouter</em></sup>
+<sup><em>Python · OpenCV · Speech AI</em></sup>
 </td>
 </tr>
 
@@ -150,7 +116,7 @@ Futuristic AI assistant with voice, automation & system control.<br/>
 <img src="https://img.shields.io/badge/📷_SnapSensei-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
 </a></h3>
 AI-powered photography mentor for smart visual guidance.<br/>
-<sup><em>Deep Learning · CV · React</em></sup>
+<sup><em>Deep Learning · Computer Vision · React</em></sup>
 </td>
 </tr>
 
@@ -163,6 +129,18 @@ AI-powered photography mentor for smart visual guidance.<br/>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20not%20to%20impress%2C%20but%20to%20express.%20Let%20every%20line%20be%20a%20lyric%2C%20and%20every%20bug%20a%20chance%20to%20rewrite%20your%20song.&author=Vipanshu%20Mittal" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
