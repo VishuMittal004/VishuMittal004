@@ -11,7 +11,7 @@
 
 ---
 
-/*## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28px"> About Me*/
+<!--## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28px"> About Me-->
 ## About Me
 
 <p align="center">
@@ -30,7 +30,7 @@ I break things. Then I make them better.
 
 ---
 
-/*## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skills & Tools*/
+<!--## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skills & Tools-->
 ## Skills & Tools
 
 <p align="center">
