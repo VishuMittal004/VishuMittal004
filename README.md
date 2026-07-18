@@ -11,7 +11,8 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28px"> About Me
+/*## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28px"> About Me*/
+## About Me
 
 <p align="center">
 I'm a B.Tech undergrad with a mission to blend tech and creativity in ways that feel like the future.  
@@ -29,7 +30,8 @@ I break things. Then I make them better.
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skills & Tools
+/*## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skills & Tools*/
+## Skills & Tools
 
 <p align="center">
 
@@ -65,7 +67,7 @@ I break things. Then I make them better.
 <tr>
 <td align="center">
 <h3><a href="https://github.com/VishuMittal004/BARTR">
-<img src="https://img.shields.io/badge/🔄_BARTR-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/_BARTR-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
 </a></h3>
 A bartering platform to trade without cash.<br/>
 <sup><em>React · Node.js · MongoDB</em></sup>
