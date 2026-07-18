@@ -57,7 +57,7 @@ I break things. Then I make them better.
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table align="center" border="0" cellspacing="0" cellpadding="10">
@@ -77,7 +77,7 @@ A bartering platform to trade without cash.<br/>
 <tr>
 <td align="center">
 <h3><a href="https://github.com/VishuMittal004/Aero-Route">
-<img src="https://img.shields.io/badge/✈️_Aero--Route-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/_Aero--Route-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
 </a></h3>
 AI-powered navigation for smarter air travel planning.<br/>
 <sup><em>Python · TensorFlow · Google Maps API</em></sup>
@@ -89,7 +89,7 @@ AI-powered navigation for smarter air travel planning.<br/>
 <tr>
 <td align="center">
 <h3><a href="https://github.com/VishuMittal004/AirClick">
-<img src="https://img.shields.io/badge/📸_AirClick-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/_AirClick-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
 </a></h3>
 Smart interface for remote photography and lens control.<br/>
 <sup><em>JavaScript · IoT · Camera APIs</em></sup>
@@ -101,7 +101,7 @@ Smart interface for remote photography and lens control.<br/>
 <tr>
 <td align="center">
 <h3><a href="https://github.com/VishuMittal004/ULTRON-under-stabilization">
-<img src="https://img.shields.io/badge/🤖_ULTRON_AI_Assistant-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/_ULTRON_AI_Assistant-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
 </a></h3>
 Futuristic AI assistant with voice, automation & system control.<br/>
 <sup><em>Python · OpenCV · Speech AI</em></sup>
@@ -113,7 +113,7 @@ Futuristic AI assistant with voice, automation & system control.<br/>
 <tr>
 <td align="center">
 <h3><a href="https://github.com/VishuMittal004/SnapSensei">
-<img src="https://img.shields.io/badge/📷_SnapSensei-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/_SnapSensei-00D4BD?style=for-the-badge&logo=github&logoColor=white" />
 </a></h3>
 AI-powered photography mentor for smart visual guidance.<br/>
 <sup><em>Deep Learning · Computer Vision · React</em></sup>
@@ -125,7 +125,7 @@ AI-powered photography mentor for smart visual guidance.<br/>
 
 ---
 
-## 🌌 A Quote to Code By
+## A Quote to Code By
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20not%20to%20impress%2C%20but%20to%20express.%20Let%20every%20line%20be%20a%20lyric%2C%20and%20every%20bug%20a%20chance%20to%20rewrite%20your%20song.&author=Vipanshu%20Mittal" />
@@ -133,7 +133,7 @@ AI-powered photography mentor for smart visual guidance.<br/>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -145,7 +145,7 @@ AI-powered photography mentor for smart visual guidance.<br/>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vipanshu-mittal-a65973334/">
