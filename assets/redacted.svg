@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" height="360">
+  <defs>
+    <filter id="neon-green" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#10B981" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#10B981" flood-opacity="0.6"/>
+    </filter>
+    <filter id="neon-red" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#EF4444" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#EF4444" flood-opacity="0.6"/>
+    </filter>
+    <filter id="neon-white" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FFFFFF" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  
+  <g font-family="'Courier New', monospace" font-size="18" font-weight="bold" text-anchor="middle">
+    
+    <text x="400" y="70" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="28" font-weight="900" fill="#EF4444" filter="url(#neon-red)">You weren't supposed to find this.</text>
+    
+    <text x="400" y="110" fill="#8b949e">We can't tell you what it is.</text>
+    
+    <text x="400" y="160" fill="#E7E7E7" filter="url(#neon-white)">Not yet.</text>
+    
+    <text x="400" y="210" fill="#10B981" filter="url(#neon-green)">███████████████░░░░░ 79.11%</text>
+    
+    <text x="400" y="260" fill="#10B981" filter="url(#neon-green)">SYSTEM // ALIVE</text>
+    <text x="400" y="290" fill="#EF4444" filter="url(#neon-red)">ACCESS // DENIED</text>
+    
+    <text x="400" y="340" fill="#8b949e">Come back when the doors open.</text>
+    
+  </g>
+</svg>
