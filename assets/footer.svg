@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="footer">
+  <defs>
+    <clipPath id="shape"><path d="M0,44 C150,0 300,88 450,44 C600,0 750,88 900,44 C1050,0 1140,64 1200,34 V170 H0 Z"/></clipPath>
+    <filter id="sh" x="-10%" y="-30%" width="120%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <g clip-path="url(#shape)">
+    <rect width="1200" height="170" fill="#059669"/>
+    
+    <rect width="1200" height="170" fill="#059669" fill-opacity="1"/>
+    <rect x="28" y="60" width="1144" height="84" rx="14" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="2" stroke-dasharray="10 10"/>
+    <text x="44" y="118" font-family="'Fira Code','SF Mono',Consolas,Menlo,monospace" font-size="15" letter-spacing="3" fill="#fff" fill-opacity=".45">IMAGE PLACEHOLDER  ·  1200 x 170  ·  run tools/make_banners.py --footer your-image.jpg</text>
+    <g opacity="0.14">
+      <path fill="#fff" d="M0,70 C150.0,50 450.0,90 600,70 C750.0,50 1050.0,90 1200,70 C1350.0,50 1650.0,90 1800,70 C1950.0,50 2250.0,90 2400,70 C2550.0,50 2850.0,90 3000,70 C3150.0,50 3450.0,90 3600,70 V230 H0 Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="18s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0.1">
+      <path fill="#fff" d="M0,96 C200.0,82 600.0,110 800,96 C1000.0,82 1400.0,110 1600,96 C1800.0,82 2200.0,110 2400,96 C2600.0,82 3000.0,110 3200,96 C3400.0,82 3800.0,110 4000,96 V230 H0 Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="26s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+</svg>

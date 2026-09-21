@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="header">
+  <defs>
+    <clipPath id="shape"><path d="M0,0 H1200 V226 C1050,278 900,184 750,226 C600,268 450,184 300,226 C150,268 60,208 0,232 Z"/></clipPath>
+    <filter id="sh" x="-10%" y="-30%" width="120%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <g clip-path="url(#shape)">
+    <rect width="1200" height="280" fill="#059669"/>
+    
+    <rect width="1200" height="280" fill="#059669" fill-opacity="1"/>
+    <rect x="28" y="14" width="1144" height="180" rx="14" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="2" stroke-dasharray="10 10"/>
+    <text x="44" y="44" font-family="'Fira Code','SF Mono',Consolas,Menlo,monospace" font-size="15" letter-spacing="3" fill="#fff" fill-opacity=".45">IMAGE PLACEHOLDER  ·  1200 x 280  ·  run tools/make_banners.py --header your-image.jpg</text>
+    <g opacity="0.14">
+      <path fill="#fff" d="M0,200 C150.0,178 450.0,222 600,200 C750.0,178 1050.0,222 1200,200 C1350.0,178 1650.0,222 1800,200 C1950.0,178 2250.0,222 2400,200 C2550.0,178 2850.0,222 3000,200 C3150.0,178 3450.0,222 3600,200 V340 H0 Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="16s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0.1">
+      <path fill="#fff" d="M0,226 C200.0,210 600.0,242 800,226 C1000.0,210 1400.0,242 1600,226 C1800.0,210 2200.0,242 2400,226 C2600.0,210 3000.0,242 3200,226 C3400.0,210 3800.0,242 4000,226 V340 H0 Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="24s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+  <g filter="url(#sh)" text-anchor="middle" fill="#fff" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Arial,sans-serif">
+    <text x="600" y="128" font-size="66" font-weight="800" letter-spacing="1">Vipanshu Mittal</text>
+    <text x="600" y="172" font-size="22" font-weight="600" letter-spacing="5" opacity=".95">FULL-STACK  ·  AI  ·  PRODUCT BUILDER</text>
+  </g>
+</svg>

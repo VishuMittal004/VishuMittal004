@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" height="160">
+  <defs>
+    <filter id="neon" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#10B981" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#10B981" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+  
+  <rect x="10" y="10" width="780" height="140" fill="#0d1117" rx="10" stroke="#30363d" stroke-width="1"/>
+  
+  <text x="40" y="65" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="36" font-style="italic" font-weight="bold" fill="#10B981" filter="url(#neon)">“</text>
+  
+  <text x="70" y="65" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="22" font-style="italic" fill="#E7E7E7" filter="url(#neon)">Code not to impress, but to express. Let every line be a lyric, and</text>
+  
+  <text x="70" y="100" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="22" font-style="italic" fill="#E7E7E7" filter="url(#neon)">every bug a chance to rewrite your song.<tspan fill="#10B981" font-weight="bold" font-size="36" dy="5">”</tspan></text>
+  
+  <text x="740" y="130" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="18" font-weight="bold" fill="#E7E7E7" text-anchor="end" filter="url(#neon)">- Vipanshu Mittal</text>
+</svg>

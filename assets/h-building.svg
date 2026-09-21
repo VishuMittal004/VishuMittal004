@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 104" width="800" height="104" role="img" aria-label="CURRENTLY BUILDING">
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6EE7B7"/><stop offset=".5" stop-color="#10B981"/><stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10B981" stop-opacity="0"/><stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text x="400.0" y="24" text-anchor="middle" font-family="'Fira Code','SF Mono',Consolas,Menlo,monospace" font-size="13" letter-spacing="6" fill="#10B981" fill-opacity=".9">02 / IN PROGRESS</text>
+  <text x="400.0" y="70" text-anchor="middle" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="9" fill="url(#t)">CURRENTLY BUILDING</text>
+  <rect x="190.0" y="88" width="180" height="2" fill="url(#l)"/>
+  <rect x="430.0" y="88" width="180" height="2" fill="url(#r)"/>
+  <rect x="395.0" y="84" width="10" height="10" fill="#10B981" transform="rotate(45 400.0 89)"/>
+</svg>
